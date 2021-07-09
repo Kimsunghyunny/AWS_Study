@@ -1,5 +1,5 @@
 
-# AWS(Amazon Web Services) 서비스 기초
+# AWS(Amazon Web Services) - 1
 
 ## - Cloud Computing
 남의 컴퓨터를 <br>
